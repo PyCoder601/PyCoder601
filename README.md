@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomeoManoela
 - I’m interested in dev
-- 🌱 I’m currently learning at ENI Fianarantsoa and SAYNA
+- 🌱 I’m currently learning at ENI Fianarantsoa
 
 
 <!---
