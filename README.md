@@ -12,7 +12,7 @@
   - Databases: 🗄️ PostgreSQL, 🍃 MongoBD, 🐬 MySQL, 📦 SQLite
   - Tools & Platforms: 🐳 Docker, ☁️ AWS, 🐧 Linux (Ubuntu),  📂 Git
 
-  (https://giphy.com/gifs/yellow-motion-graphics-purple-Wyu7uPO3A8vKwEBXDE)
+  ![romeo](https://giphy.com/gifs/yellow-motion-graphics-purple-Wyu7uPO3A8vKwEBXDE)
 
 
 
