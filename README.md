@@ -12,7 +12,8 @@
   - Databases: 🗄️ PostgreSQL, 🍃 MongoBD, 🐬 MySQL, 📦 SQLite
   - Tools & Platforms: 🐳 Docker, ☁️ AWS, 🐧 Linux (Ubuntu),  📂 Git
 
-¡[hello](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZvanRra3g2ZnBlZHluNHBjc3BidXN1eHAwZnBseWY5emN0OWJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wyu7uPO3A8vKwEBXDE/giphy.gif)
+![Hello](https://media.giphy.com/media/h4F7G3vHM0DRy/giphy.gif)
+
 
 
 
