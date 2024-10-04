@@ -1,7 +1,7 @@
 👋 Hi, I’m @RomeoManoela
 
 - 🚀 About Me
-  - 💼 I’m a backend expert, proficient in Django and REST API development.
+  - 💼 I’m a backend developer, proficient in Django and REST API development.
   - 🌱 Always learning new backend technologies and best practices, with a focus on scalability and security.
   - 👨‍🎓 Currently a Computer Science student, enhancing my professional skills to master DevOps and Data Science in the future.
   - 💬 I love discussing database optimization, API design, and anything related to backend infrastructure.
