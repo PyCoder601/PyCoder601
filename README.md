@@ -6,23 +6,6 @@
   - 👨‍🎓 Currently a Computer Science student, enhancing my professional skills to master Data Science in the future.
   - 💬 I love discussing database optimization, API design, and anything related to backend infrastructure.
   - ⚡ Before diving deep into backend development, I explored frontend technologies like JavaScript and React.
-    
-- 🛠️ My Tech Stack
-  - Languages: 🐍 Python, ☕ Java, 💻 JavaScript.
-  - Fontend Framework: ⚛️ React.
-  - Backend Frameworks: 🐍 Django,  🌐 Django Rest Framework, ☕ Spring Boot.
-  - Databases: 🗄️ PostgreSQL, 🍃 MongoBD, 🐬 MySQL, 📦 SQLite.
-  - Tools & Platforms: 🐳 Docker, ☁️ AWS, 🐧 Linux (Ubuntu), 📂 Git, 📜 Nginx.
-    
-- 🧠 Knowledge & Expertise
-  - 🌟 Algorithms & Data Structures: ⚙️ Expertise in problem-solving using structures like linked lists, trees, graphs, and various sorting algorithms.
-  - 📐 Mathematics: 🧮 Strong foundation in calculus, linear algebra, and discrete mathematics.
-  - 🖥️ System Design: 🏗️ Skilled in designing scalable, high-performance systems with attention to security, maintainability, and reliability.
-  - 🌐 Networking Protocols: 📡 Solid understanding of HTTP, HTTPS, TCP/IP, REST, and WebSocket protocols, ensuring efficient and secure network communication.
-  
-
-
-
 
 <!---
 RomeoManoela/RomeoManoela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
