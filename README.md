@@ -1,6 +1,5 @@
 ## 💫 Hi There:
-I'm a full-stack developer with a focus on Python/ML and TypeScript. In my free time, I solve problems on LeetCode and explore Java.
-Leetcode: https://leetcode.com/u/romeomanoela
+I'm a full-stack developer. In my free time, I solve problems on [LeetCode](https://leetcode.com/u/romeomanoela).
 
 
 ## 🌐 Socials:
