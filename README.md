@@ -1,4 +1,4 @@
-## 💫 Hi There:
+## Hi There:
 I'm a full-stack developer. In my free time, I solve problems on [LeetCode](https://leetcode.com/u/romeomanoela).
 
 
