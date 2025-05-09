@@ -1,5 +1,5 @@
 ## Hi There:
-I'm a full-stack developer. In my free time, I solve problems on [LeetCode](https://leetcode.com/u/romeomanoela).
+A full-stack developer passionate about data. In my free time, I solve problems on [LeetCode](https://leetcode.com/u/romeomanoela).
 
 
 ## 🌐 Socials:
