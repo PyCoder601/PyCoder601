@@ -23,7 +23,7 @@ class Romeo:
             {
                 "name": "EJ Logiciel",
                 "desc": "Plateforme e-commerce automatisée pour la vente de licences logicielles.",
-                "stack": ["Django", "Next.js", "Redis"],
+                "stack": ["Django", "Next", "Redis", "Celery"],
                 "url": "http://ejlogiciel.com/"
             },
             {
@@ -35,7 +35,7 @@ class Romeo:
             {
                 "name": "Texteo",
                 "desc": "Application de messagerie instantanée en temps réel, inspirée de WhatsApp.",
-                "stack": ["FastAPI", "Next.js", "Redis", "WebSocket"],
+                "stack": ["FastAPI", "Next", "Redis", "WebSocket"],
                 "url": "https://github.com/PyCoder601/texteo"
             }
         ]
