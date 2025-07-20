@@ -1,6 +1,6 @@
 # Bonjour, je suis Romeo! 👋
 
-Développeur Full-Stack passionné avec une expertise dans la création de solutions logicielles robustes et l'IA. J'aime explorer les nouvelles technologies et résoudre des problèmes complexes.
+Développeur Full-Stack passionné avec une expertise dans la création de solutions logicielles robustes et l'IA.
 
 ---
 
