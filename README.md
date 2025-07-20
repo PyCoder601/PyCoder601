@@ -59,7 +59,7 @@ print(f"Merci d'avoir consulter mon profil GitHub, Bonne journée !")
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,react,nextjs,nodejs,django,fastapi,postgres,mongodb,redis,docker,git,githubactions,tensorflow,pytorch,idea,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,java,react,nextjs,nodejs,django,fastapi,postgres,mongodb,redis,docker,nginx,git,githubactions,tensorflow,pytorch,selenium,pycharm,vscode&perline=10" />
   </a>
 </p>
 
