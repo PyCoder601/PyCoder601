@@ -1,8 +1,6 @@
-# Bonjour, je suis Romeo! 👋
+## Bonjour, je suis Romeo! 👋
 
 Développeur Full-Stack passionné avec une expertise dans la création de solutions logicielles robustes et l'IA.
-
----
 
 ### 👨‍💻 Mon Profil, version code :
 
