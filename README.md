@@ -17,13 +17,13 @@ class Romeo:
                 "name": "EJ Logiciel",
                 "desc": "Plateforme e-commerce automatisée pour la vente de licences logicielles.",
                 "stack": ["Django", "Next", "Redis", "Celery"],
-                "url": "http://ejlogiciel.com/"
+                "url": "https://ejlogiciel.com/"
             },
             {
                 "name": "AI Quiz",
                 "desc": "Générateur de quiz personnalisés utilisant l'IA (Gemini) pour un apprentissage interactif.",
                 "stack": ["FastAPI", "React", "Gemini"],
-                "url": "http://ai-quiz-murf.onrender.com/"
+                "url": "https://ai-quiz-murf.onrender.com/"
             },
             {
                 "name": "Texteo",
