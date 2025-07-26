@@ -39,7 +39,7 @@ class Romeo:
             "Frontend": ["React", "Next"],
             "Backend": ["Django", "FastAPI"],
             "Bases de données": ["PostgreSQL", "MongoDB", "Redis"],
-            "ML/AI/Automation": ["TensorFlow", "PyTorch", "Scikit-learn", "n8n"],
+            "ML/AI/Automation": ["PySpark", "Scikit-learn", "n8n"],
             "Outils": ["Docker", "Git", "GitHub Actions", "CI/CD"]
         }
 
