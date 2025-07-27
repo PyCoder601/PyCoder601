@@ -7,6 +7,7 @@ class Romeo:
         self.links = {
             "email": "romeomanoela18@gmail.com",
             "linkedin": "https://www.linkedin.com/in/romeopycoder601/",
+            "portfolio": "https://portfolio-romeo.vercel.app/",
             "leetcode": "https://leetcode.com/u/Pycoder601/"
         }
 
