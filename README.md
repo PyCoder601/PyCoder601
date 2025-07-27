@@ -16,20 +16,20 @@ class Romeo:
             {
                 "name": "EJ Logiciel",
                 "desc": "Plateforme e-commerce automatisée pour la vente de licences logicielles.",
-                "stack": ["Django", "Next", "Redis", "Celery"],
+                "stack": ["Django", "Next/ts", "Redis", "Celery", "redux toolkit"],
                 "url": "https://ejlogiciel.com/"
+            },
+            {
+                "name": "Texteo",
+                "desc": "Application de messagerie instantanée en temps réel, inspirée de WhatsApp.",
+                "stack": ["FastAPI", "Next/ts", "Redis", "WebSocket", "redux toolkit"],
+                "url": "https://texteo-mg.vercel.app/"
             },
             {
                 "name": "AI Quiz",
                 "desc": "Générateur de quiz personnalisés utilisant l'IA (Gemini) pour un apprentissage interactif.",
                 "stack": ["FastAPI", "React", "Gemini"],
                 "url": "https://ai-quiz-murf.onrender.com/"
-            },
-            {
-                "name": "Texteo",
-                "desc": "Application de messagerie instantanée en temps réel, inspirée de WhatsApp.",
-                "stack": ["FastAPI", "Next", "Redis", "WebSocket"],
-                "url": "https://github.com/PyCoder601/texteo"
             }
         ]
 
