@@ -7,7 +7,7 @@ class Romeo:
         self.links = {
             "email": "romeomanoela18@gmail.com",
             "linkedin": "https://www.linkedin.com/in/romeopycoder601/",
-            "portfolio": "https://portfolio-romeo.vercel.app/",
+            "portfolio": "https://romeo-tech.com",
             "leetcode": "https://leetcode.com/u/Pycoder601/"
         }
 
@@ -24,13 +24,13 @@ class Romeo:
                 "name": "Texteo",
                 "desc": "Application de messagerie instantanée en temps réel, inspirée de WhatsApp.",
                 "stack": ["FastAPI", "Next/ts", "Redis", "WebSocket", "redux toolkit"],
-                "url": "https://texteo-mg.vercel.app/"
+                "url": "https://texteo.romeo-tech.com/"
             },
             {
-                "name": "AI Quiz",
+                "name": "Quizeo",
                 "desc": "Générateur de quiz personnalisés utilisant l'IA (Gemini) pour un apprentissage interactif.",
                 "stack": ["FastAPI", "React", "Gemini"],
-                "url": "https://ai-quiz-murf.onrender.com/"
+                "url": "https://quizeo.romeo-tech.com/"
             }
         ]
 
@@ -40,7 +40,7 @@ class Romeo:
             "Frontend": ["React", "Next"],
             "Backend": ["Django", "FastAPI"],
             "Bases de données": ["PostgreSQL", "MongoDB", "Redis"],
-            "ML/AI/Automation": ["PySpark", "Scikit-learn", "n8n"],
+            "ML/AI/Automation": ["PySpark", "Scikit-learn", "n8n", "Lanchain", "HuggingFace"],
             "Outils": ["Docker", "Git", "GitHub Actions", "CI/CD"]
         }
 
