@@ -1,5 +1,5 @@
 ## Bonjour, je suis Romeo! 👋
-#### Python Software Engineer | Spécialiste IA & Machine Learning
+#### Python Software Engineer
 
 ---
 ### 📧 Contact
@@ -7,13 +7,6 @@
 - **Email**: [romeomanoela18@gmail.com](mailto:romeomanoela18@gmail.com)
 - **LinkedIn**: [linkedin.com/in/romeo-tech](https://www.linkedin.com/in/romeo-tech/)
 - **LeetCode**: [leetcode.com/u/Pycoder601](https://leetcode.com/u/Pycoder601/)
----
-### 🚀 Compétences Techniques
-- **Frontend**: `React` `Next.js`
-- **Backend**: `Django` `FastAPI`
-- **Bases de données**: `PostgreSQL` `MongoDB` `Redis`
-- **ML/AI/Automation**: `PySpark` `Scikit-learn` `n8n` `LangChain` `HuggingFace`
-- **Outils**: `Docker` `Git` `GitHub Actions` `CI/CD`
 ---
 ### 💻 Projets
 #### 1. [EJ Logiciel](https://ejlogiciel.com/)
