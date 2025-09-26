@@ -1,29 +1,26 @@
-## Bonjour, je suis Romeo! 👋
-#### Python Software Engineer
-
+## Hi, I'm Romeo! 👋  
+#### Python Software Engineer  
+![Profile Views](https://komarev.com/ghpvc/?username=PyCoder601&color=blue&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-romeo--tech-blue?logo=linkedin)](https://www.linkedin.com/in/romeo-tech/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-romeo--tech.com-ff69b4)](https://romeo-tech.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pycoder601-orange?logo=leetcode)](https://leetcode.com/u/Pycoder601/)  
 ---
-### 📧 Contact
-- **Portfolio**: [romeo-tech.com](https://romeo-tech.com)
-- **Email**: [romeomanoela18@gmail.com](mailto:romeomanoela18@gmail.com)
-- **LinkedIn**: [linkedin.com/in/romeo-tech](https://www.linkedin.com/in/romeo-tech/)
-- **LeetCode**: [leetcode.com/u/Pycoder601](https://leetcode.com/u/Pycoder601/)
----
-### 💻 Projets
-#### 1. [EJ Logiciel](https://ejlogiciel.com/)
-- **Description**: Plateforme e-commerce automatisée pour la vente de licences logicielles.
-- **Stack**: `Django`, `Next.js`, `TypeScript`, `Redis`, `Celery`, `Redux Toolkit`
+### 💻 Projects  
 
-#### 2. [Texteo](https://texteo.romeo-tech.com/)
-- **Description**: Application de messagerie instantanée en temps réel, inspirée de WhatsApp.
-- **Stack**: `FastAPI`, `Next.js`, `TypeScript`, `Redis`, `WebSocket`, `Redux Toolkit`
+#### [EJ Logiciel](https://ejlogiciel.com/)  
+Automated e-commerce platform for software license sales.  
+**Tech:** `Django` · `Next.js` · `TypeScript` · `Redis` · `Celery` · `Redux Toolkit`  
 
-#### 4. [Fast JWT Auth](https://github.com/pythonlabs/fast_jwt)
-- **Description**: Bibliothèque d'authentification JWT simple et légère pour FastAPI, conçue pour protéger les routes et gérer les tokens.
-- **Stack**: `FastAPI`
-#### 3. [Quizeo](https://quizeo.romeo-tech.com/)
-- **Description**: Générateur de quiz personnalisés utilisant l'IA (Gemini) pour un apprentissage interactif.
-- **Stack**: `FastAPI`, `React`, `Gemini`
+#### [Texteo](https://texteo.romeo-tech.com/)  
+Real-time messaging app inspired by WhatsApp.  
+**Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Redis` · `WebSocket` · `Redux Toolkit`  
 
----
+#### [Quizeo](https://quizeo.romeo-tech.com/)  
+AI-powered custom quiz generator for interactive learning.  
+**Tech:** `FastAPI` · `React` · `Gemini`  
 
-Merci d'avoir consulté mon profil GitHub, Bonne journée !
+#### [Fast JWT Auth](https://github.com/pythonlabs/fast_jwt)  
+Lightweight JWT authentication library for FastAPI to secure routes and manage tokens.  
+**Tech:** `FastAPI`  
+
+Thanks for visiting my GitHub profile! 🚀
