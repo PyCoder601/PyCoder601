@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-romeo--tech.com-ff69b4)](https://romeo-tech.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Pycoder601-orange?logo=leetcode)](https://leetcode.com/u/Pycoder601/)  
 ---
-##### 💻 Projects  
+##### 💻 Creator of: 
 ##### <a href="https://jery.vercel.app/" target="_blank">Jery</a>  
 Server Monitoring 
 **Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Docker` · `WebSocket` · `GitHub Actions` · `Redux Toolkit`
