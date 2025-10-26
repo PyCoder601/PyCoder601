@@ -13,7 +13,7 @@ Server Monitoring
 Real-time messaging app inspired by WhatsApp.  
 **Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Redis` · `WebSocket` · `Redux Toolkit`  
 
-##### <a href="https://github.com/pythonlabs/fast_jwt" target="_blank">Fast JWT Auth</a>  
+##### <a href="https://libraries.io/pypi/fast-jwt-auth" target="_blank">Fast JWT Auth</a>  
 Lightweight JWT authentication library for FastAPI to secure routes and manage tokens.  
 **Tech:** `FastAPI` 
 
