@@ -8,13 +8,11 @@
 ##### <a href="https://jery.vercel.app/" target="_blank">Jery</a>  
 Server Monitoring 
 **Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Docker` · `WebSocket` · `GitHub Actions` · `Redux Toolkit`
-
-##### <a href="https://texteo.romeo-tech.com/" target="_blank">Texteo</a>  
-Real-time messaging app inspired by WhatsApp.  
-**Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Redis` · `WebSocket` · `Redux Toolkit`  
-
 ##### <a href="https://libraries.io/pypi/fast-jwt-auth" target="_blank">Fast JWT Auth</a>  
 Lightweight JWT authentication library for FastAPI to secure routes and manage tokens.  
 **Tech:** `FastAPI` 
+##### <a href="https://texteo.romeo-tech.com/" target="_blank">Texteo</a>  
+Real-time messaging app inspired by WhatsApp.  
+**Tech:** `FastAPI` · `Next.js` · `TypeScript` · `Redis` · `WebSocket` · `Redux Toolkit`  
 
 Thanks for visiting my GitHub profile! 🚀
